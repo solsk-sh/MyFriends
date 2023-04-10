@@ -1,0 +1,13 @@
+name: '${project.name}'
+version: '${project.version}'
+main: sh.solsk.myfriends.MyFriends
+api-version: 1.19
+prefix: "&6[&eMyFriends&6]"
+authors: [solsk]
+description: Add friends, trade with them, give them reputation and more!
+website: https://github.com/solsk-sh/MyFriends
+
+commands:
+  friend:
+    description: Add friends, share, trade and more!
+    aliases: [friends]
