@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"sh.solsk.myfriends","l":"Friend"},{"p":"sh.solsk.myfriends.commands","l":"FriendCommand"},{"p":"sh.solsk.myfriends","l":"MyFriends"}];updateSearchResults();

@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"sh.solsk.myfriends"},{"l":"sh.solsk.myfriends.commands"}];updateSearchResults();
